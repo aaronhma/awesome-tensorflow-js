@@ -73,6 +73,7 @@ More info [here](https://www.tensorflow.org/js).
 
 * [TensorFlow Playground](https://playground.tensorflow.org) - Tinker With a Neural Network Right Here in Your Browser
 * [AiJS](https://aijs.rocks/) - A curated collection of inspirational AI-powered JavaScript apps
+* [Teachable Machine](https://teachablemachine.withgoogle.com/) - Train a computer to recognize your own images, sounds, & poses
 
 <a name="video" />
 
@@ -117,7 +118,7 @@ More info [here](https://www.tensorflow.org/js).
 
 <a name="social-media" />
 
-* [#MadeWithTFJS](https://twitter.com/hashtag/MadeWithTFJS) - See what the community has mad and share your work with
+* [#MadeWithTFJS](https://twitter.com/hashtag/MadeWithTFJS) - See what the community has made and share your work
 * [Laurence Moroney](https://twitter.com/lmoroney) - Lead of AI Developer Relations at Google
 * [Nikhil Thorat](https://twitter.com/nsthorat) - Co-lead of TensorFlow.js
 * [Daniel Smilkov](https://twitter.com/dsmilkov) - Co-creator of TensorFlow.js
