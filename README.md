@@ -20,10 +20,10 @@ More info [here](https://www.tensorflow.org/js).
 - [Tools/Utilities](#tools-utils)
 - [Videos](#video)
 - [Papers](#papers)
-- [Blog posts](#blogs)
+- [Blog & Posts](#blogs)
 - [Community](#community)
 - [Books](#books)
-- [Social Media (People to follow)](#social-media)
+- [Social Media (Who to follow)](#social-media)
 <!-- /MarkdownTOC -->
 
 <a name="documentation" />
@@ -31,12 +31,13 @@ More info [here](https://www.tensorflow.org/js).
 ## Documentation
 
 * [Official Documentation](https://www.tensorflow.org/js/guide)
-* [API Reference](hhttps://js.tensorflow.org/api/latest/)
+* [API Reference](https://js.tensorflow.org/api/latest/)
 
 <a name="github-tutorials" />
 
 ## Tutorials
 
+* [TensorFlow.js gallery](https://github.com/tensorflow/tfjs/blob/master/GALLERY.md) -  A collection of TensorFlow.js projects, tutorials, videos, and more.
 * [Machine Learning Crash Course](https://developers.google.com/machine-learning/crash-course/) - Google's fast-paced, practical introduction to machine learning
 * [Google Codelabs](https://codelabs.developers.google.com/) - Google Developers Codelabs provide a guided, tutorial, hands-on coding experience
 
@@ -44,17 +45,17 @@ More info [here](https://www.tensorflow.org/js).
 
 ## Models/Projects
 
-* [official tfjs models on TensorFlow.js Github repo](https://github.com/tensorflow/tfjs-models) - Pretrained models for TensorFlow.js
-* [official tfjs models on TensorFlow.js website](https://www.tensorflow.org/js/models) - Explore pre-trained TensorFlow.js models that can be used in any project out of the box
+* [Official tfjs models on TensorFlow.js repo](https://github.com/tensorflow/tfjs-models) - Pretrained models for TensorFlow.js
+* [Official tfjs models on TensorFlow.js website](https://www.tensorflow.org/js/models) - Explore pre-trained TensorFlow.js models that can be used in any project out of the box
 * [@tensorflow-models on NPM](https://www.npmjs.com/search?q=%40tensorflow-models) - Various pretrained models for TensorFlow.js on NPM
-* [official tfjs examples repo](https://github.com/tensorflow/tfjs-examples) - Examples built with TensorFlow.js
-* [official tfjs demo website](https://www.tensorflow.org/js/demos) - See examples and live demos built with TensorFlow.js.
+* [Official tfjs examples repo](https://github.com/tensorflow/tfjs-examples) - Examples built with TensorFlow.js
+* [Official tfjs demo website](https://www.tensorflow.org/js/demos) - See examples and live demos built with TensorFlow.js.
 
 <a name="github-powered-by" />
 
 ## Powered by TensorFlow.js
 
-* TBD
+* [Handwritten Digit Classification](https://github.com/aaronhma/ngconf-2020) - A showcase project for [NgConf 2020](https://www.ng-conf.org/) talk on *A Journey into the World of Machine Learning with TensorFlow.js*
 
 <a name="libraries" />
 
@@ -64,6 +65,7 @@ More info [here](https://www.tensorflow.org/js).
 * [ml5.js](https://ml5js.org/) - Friendly machine learning for the web
 * [face-api.js](https://github.com/justadudewhohacks/face-api.js) - JavaScript API for face detection and face recognition in the browser and nodejs with tensorflow.js
 * [handtrack.js](https://github.com/victordibia/handtrack.js/) - A library for prototyping realtime hand detection (bounding box), directly in the browser
+* [magenta.js](https://magenta.tensorflow.org/get-started/#magenta-js) - Music and Art Generation with Machine Intelligence in the Browser
 
 <a name="tools-utils" />
 
@@ -76,7 +78,7 @@ More info [here](https://www.tensorflow.org/js).
 
 ## Videos
 
-* [Official TensorFlow.js video series](https://www.youtube.com/playlist?reload=9&list=PLs6AluHXaQnjeI6jzDkpKXvbPj31i4GgF)
+* [Official TensorFlow.js video series](https://www.youtube.com/playlist?reload=9&list=PLs6AluHXaQnjeI6jzDkpKXvbPj31i4GgF) - The YouTube content focuses on TensorFlow ecosystem updates
 * [TensorFlow.js: ML for the web and beyond](https://youtu.be/iH9CS-QYmZs) - TensorFlow Dev Summit 2020
 
 <a name="papers" />
@@ -88,9 +90,10 @@ More info [here](https://www.tensorflow.org/js).
 
 <a name="blogs" />
 
-## Blog posts
+## Blog & Posts
 
-* TBD
+* [Official TensorFlow.js blog](https://blog.tensorflow.org/search?label=TensorFlow.js&max-results=20) - Covers building models in JavaScript and using them in the browser or in Node.js
+* [Towards Data Science](https://towardsdatascience.com/search?q=tensorflow.js)
 
 <a name="community" />
 
@@ -118,7 +121,10 @@ More info [here](https://www.tensorflow.org/js).
 * [Laurence Moroney](https://twitter.com/lmoroney) - Lead of AI Developer Relations at Google
 * [Nikhil Thorat](https://twitter.com/nsthorat) - Co-lead of TensorFlow.js
 * [Daniel Smilkov](https://twitter.com/dsmilkov) - Co-creator of TensorFlow.js
+* [Paige Bailey](https://twitter.com/DynamicWebPaige) - Building
+Google AI for everyone, and for every platform
 * [Aaron Ma](https://twitter.com/aaronhma) - Youngest TensorFlow contributor
+* [Sandeep Gupta](https://twitter.com/TheSandeepGupta) - Product Manager for TensorFlow
 
 
 ## Contributions
@@ -138,4 +144,4 @@ More info on the [guidelines](contributing.md)
 
 ## Credits
 
-* This Awesome TensorFlow.js list is highly inspired by [Awesome TensorFlow](https://github.com/jtoy/awesome-tensorflow) and [Awesome](https://github.com/sindresorhus/awesome)
+* This Awesome TensorFlow.js list is highly inspired by [Awesome TensorFlow](https://github.com/jtoy/awesome-tensorflow) and [Awesome](https://github.com/sindresorhus/awesome) projects
