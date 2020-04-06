@@ -4,7 +4,7 @@ A curated list of awesome TensorFlow.js experiments, libraries, and projects. In
 
 ## What is TensorFlow.js?
 
-TensorFlowJS is an open source software library to develop machine learning models in JavaScript, and use machine learning
+TensorFlow.js is an open source software library to develop machine learning models in JavaScript, and use machine learning
 (training and inference) directly in the browser or Node.js.
 
 More info [here](https://www.tensorflow.org/js).
@@ -135,17 +135,17 @@ Google AI for everyone, and for every platform
 
 Your contributions are always welcome!
 
-If you want to contribute to this list (please do), send me a pull request or contact me [@aaronhma](https://twitter.com/aaronhma)
+If you want to contribute to this list (please do), send me a pull request or contact me [@aaronhma on Twitter](https://twitter.com/aaronhma)
 Also, if you notice that any of the above listed repositories should be deprecated, due to any of the following reasons:
 
 * Repository's owner explicitly say that "this library is not maintained".
 * Not committed for long time (2~3 years).
 
-More info on the [guidelines](contributing.md)
+More info on the [guidelines](CONTRIBUTING.md)
 
 
 <a name="credits" />
 
-## Credits
+## Acknowledgements
 
 * This Awesome TensorFlow.js list is highly inspired by [Awesome TensorFlow](https://github.com/jtoy/awesome-tensorflow) and [Awesome](https://github.com/sindresorhus/awesome) projects
