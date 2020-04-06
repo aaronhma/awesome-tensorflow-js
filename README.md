@@ -71,6 +71,8 @@ More info [here](https://www.tensorflow.org/js).
 
 ## Tools/Utilities
 
+* [Glitch](https://glitch.com/@TensorFlowJS) - Build fast, full-stack web apps in browser for free (Tensorflow.js templates)
+* [CodePen](https://codepen.io/topic/tensorflow/templates) - Best place to build, test and discover front-end code (Tensorflow.js templates)
 * [TensorFlow Playground](https://playground.tensorflow.org) - Tinker With a Neural Network Right Here in Your Browser
 * [AiJS](https://aijs.rocks/) - A curated collection of inspirational AI-powered JavaScript apps
 * [Teachable Machine](https://teachablemachine.withgoogle.com/) - Train a computer to recognize your own images, sounds, & poses
@@ -126,6 +128,7 @@ More info [here](https://www.tensorflow.org/js).
 Google AI for everyone, and for every platform
 * [Aaron Ma](https://twitter.com/aaronhma) - Youngest TensorFlow contributor
 * [Sandeep Gupta](https://twitter.com/TheSandeepGupta) - Product Manager for TensorFlow
+* [Jason Mayes](https://twitter.com/jason_mayes) - Developer advocate for TensorFlow.js
 
 
 ## Contributions
