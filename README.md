@@ -129,7 +129,7 @@ Google AI for everyone, and for every platform
 * [Aaron Ma](https://twitter.com/aaronhma) - Youngest TensorFlow contributor
 * [Sandeep Gupta](https://twitter.com/TheSandeepGupta) - Product Manager for TensorFlow
 * [Jason Mayes](https://twitter.com/jason_mayes) - Developer advocate for TensorFlow.js
-
+* [Gant Laborde](https://twitter.com/GantLaborde) - Machine Learning GDE
 
 ## Contributions
 
