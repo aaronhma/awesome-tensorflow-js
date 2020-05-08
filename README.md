@@ -76,6 +76,7 @@ More info [here](https://www.tensorflow.org/js).
 * [TensorFlow Playground](https://playground.tensorflow.org) - Tinker With a Neural Network Right Here in Your Browser
 * [AiJS](https://aijs.rocks/) - A curated collection of inspirational AI-powered JavaScript apps
 * [Teachable Machine](https://teachablemachine.withgoogle.com/) - Train a computer to recognize your own images, sounds, & poses
+* [TensorPlayground.com](https://www.tensorplayground.com/1.0.0/) - Write, modify, and view tensors directly in the browser. Then share the code with others.
 
 <a name="video" />
 
