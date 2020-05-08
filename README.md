@@ -57,6 +57,7 @@ More info [here](https://www.tensorflow.org/js).
 ## Powered by TensorFlow.js
 
 * [Handwritten Digit Classification](https://github.com/aaronhma/ngconf-2020) - A showcase project for [NgConf 2020](https://www.ng-conf.org/) talk on *A Journey into the World of Machine Learning with TensorFlow.js*
+* [NSFWJS - Indecent Content Checker](https://github.com/infinitered/nsfwjs) - A friendly library to check images to see if they are indecent content on either the client or the server.
 
 <a name="libraries" />
 
