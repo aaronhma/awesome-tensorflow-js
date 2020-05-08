@@ -6,7 +6,7 @@
 
 <!-- MarkdownTOC depth=4 -->
 <!-- - [Awesome TensorFlow.js](https://github.com/aaronhma/awesome-tensorflow-tfjs#awesome-tensorflowjs-tfjs) -->
-- [About TensorFlow.js](https://github.com/aaronhma/awesome-tensorflow-tfjs#about-tensorflowjs)
+- [About TensorFlow.js](https://github.com/aaronhma/awesome-tensorflow-tfjs#about)
 - [Table of Contents](https://github.com/aaronhma/awesome-tensorflow-tfjs#table-of-contents)
 - [Documentation](https://github.com/aaronhma/awesome-tensorflow-tfjs#documentation)
 - [Tutorials](https://github.com/aaronhma/awesome-tensorflow-tfjs#tutorials)
@@ -26,7 +26,7 @@
 
 ---
 
-<a name="about-tensorflowjs" />
+<a name="about" />
 
 ## About TensorFlow.js
 
