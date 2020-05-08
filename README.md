@@ -40,6 +40,7 @@ More info [here](https://www.tensorflow.org/js).
 * [TensorFlow.js gallery](https://github.com/tensorflow/tfjs/blob/master/GALLERY.md) -  A collection of TensorFlow.js projects, tutorials, videos, and more.
 * [Machine Learning Crash Course](https://developers.google.com/machine-learning/crash-course/) - Google's fast-paced, practical introduction to machine learning
 * [Google Codelabs](https://codelabs.developers.google.com/) - Google Developers Codelabs provide a guided, tutorial, hands-on coding experience
+* [Beginning ML with TensorFlow.js](https://academy.infinite.red/p/beginning-machine-learning-with-tensorflow-js) - Full online course for web devs to get into TF.js
 
 <a name="github-projects" />
 
