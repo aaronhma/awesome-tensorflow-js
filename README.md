@@ -163,5 +163,5 @@ More info on the [guidelines](CONTRIBUTING.md)
 
 ## Acknowledgements
 
-- This Awesome TensorFlow.js list is highly inspired by [Awesome TensorFlow](https://github.com/jtoy/awesome-tensorflow) and [Awesome](https://github.com/sindresorhus/awesome) project.s
+- This Awesome TensorFlow.js list is highly inspired by [Awesome TensorFlow](https://github.com/jtoy/awesome-tensorflow) and the [Awesome](https://github.com/sindresorhus/awesome) project.
 - Thanks to [@GantMan](https://github.com/GantMan/) for contributing!
