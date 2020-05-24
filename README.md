@@ -12,8 +12,7 @@ More info [here](https://www.tensorflow.org/js).
 
 <!-- MarkdownTOC depth=4 -->
 <!-- - [Awesome TensorFlow.js](https://github.com/aaronhma/awesome-tensorflow-tfjs#awesome-tensorflowjs-tfjs) -->
-<!-- - [About TensorFlow.js](https://github.com/aaronhma/awesome-tensorflow-tfjs#about) -->
-<!-- - [Table of Contents](https://github.com/aaronhma/awesome-tensorflow-tfjs#table-of-contents) -->
+<!--lint disable awesome-list-item-->
 - [Documentation](https://github.com/aaronhma/awesome-tensorflow-tfjs#documentation)
 - [Tutorials](https://github.com/aaronhma/awesome-tensorflow-tfjs#tutorials)
 - [Models/Projects](https://github.com/aaronhma/awesome-tensorflow-tfjs#modelsprojects)
