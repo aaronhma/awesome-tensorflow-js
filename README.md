@@ -2,12 +2,18 @@
 
 > A curated list of dedicated resources to help you master TensorFlow.js.
 
+TensorFlow.js is an open source software library to develop machine learning models in JavaScript, and use machine learning
+(training and inference) directly in the browser or Node.js.
+
+More info [here](https://www.tensorflow.org/js).
+
+
 ## Contents
 
 <!-- MarkdownTOC depth=4 -->
 <!-- - [Awesome TensorFlow.js](https://github.com/aaronhma/awesome-tensorflow-tfjs#awesome-tensorflowjs-tfjs) -->
-- [About TensorFlow.js](https://github.com/aaronhma/awesome-tensorflow-tfjs#about)
-- [Table of Contents](https://github.com/aaronhma/awesome-tensorflow-tfjs#table-of-contents)
+<!-- - [About TensorFlow.js](https://github.com/aaronhma/awesome-tensorflow-tfjs#about) -->
+<!-- - [Table of Contents](https://github.com/aaronhma/awesome-tensorflow-tfjs#table-of-contents) -->
 - [Documentation](https://github.com/aaronhma/awesome-tensorflow-tfjs#documentation)
 - [Tutorials](https://github.com/aaronhma/awesome-tensorflow-tfjs#tutorials)
 - [Models/Projects](https://github.com/aaronhma/awesome-tensorflow-tfjs#modelsprojects)
@@ -25,16 +31,6 @@
 <!-- /MarkdownTOC -->
 
 ---
-
-<a name="about" />
-
-## About TensorFlow.js
-
-TensorFlow.js is an open source software library to develop machine learning models in JavaScript, and use machine learning
-(training and inference) directly in the browser or Node.js.
-
-More info [here](https://www.tensorflow.org/js).
-
 
 <a name="documentation" />
 
