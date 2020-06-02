@@ -1,37 +1,45 @@
-# Awesome TensorflowJS [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Awesome TensorFlowJS [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 TensorFlow.js is an open source software library to develop machine learning models in JavaScript, and use machine learning
 (training and inference) directly in the browser or Node.js.
 
 This list is a collection of the best [TensorFlow.js](https://www.tensorflow.org/js) tools, resources, videos and shiny things.
 
+---
 
 ## Contents
 
-- [Documentation](#documentation)
-- [Tutorials](#tutorials)
-- [Models/Projects](#modelsprojects)
-- [Powered by TensorFlow.js](#powered-by-tensorflowjs)
-- [Libraries](#libraries)
-- [Tools/Utilities](#toolsutilities)
-- [Videos](#videos)
-- [Papers](#papers)
-- [Blog & Posts](#blog--posts)
+- [Learn](#learn)
+  - [Documentation](#documentation)
+  - [Tutorials](#tutorials)
+  - [Models/Projects](#modelsprojects)
+  - [Papers](#papers)
+  - [Videos](#videos)
+  - [Books](#books)
+  - [Blog & Posts](#blog--posts)
+  - [Powered by TensorFlow.js](#powered-by-tensorflowjs)
+
+- [Tools](#tools)
+  - [Libraries](#libraries)
+  - [Tools/Utilities](#toolsutilities)
+
 - [Community](#community)
-- [Books](#books)
-- [Social Media](#social-media)
+  - [Online Community](#online-community)
+  - [Social Media](#social-media)
+
 - [Contributions](#contributions)
-- [Acknowledgements](#acknowledgements)
 
 ---
 
-## Documentation
+## Learn
+
+### Documentation
 
 - [Official Documentation](https://www.tensorflow.org/js/guide)
 - [API Reference](https://js.tensorflow.org/api/latest/)
 
 
-## Tutorials
+### Tutorials
 
 - [TensorFlow.js gallery](https://github.com/tensorflow/tfjs/blob/master/GALLERY.md) -  A collection of TensorFlow.js projects, tutorials, videos, and more.
 - [Machine Learning Crash Course](https://developers.google.com/machine-learning/crash-course/) - Google's fast-paced, practical introduction to machine learning.
@@ -39,7 +47,7 @@ This list is a collection of the best [TensorFlow.js](https://www.tensorflow.org
 - [Beginning ML with TensorFlow.js](https://academy.infinite.red/p/beginning-machine-learning-with-tensorflow-js) - Full online course for web devs to get into TF.js.
 
 
-## Models/Projects
+### Models/Projects
 
 - [Official tfjs models on TensorFlow.js repo](https://github.com/tensorflow/tfjs-models) - Pretrained models for TensorFlow.js.
 - [Official tfjs models on TensorFlow.js website](https://www.tensorflow.org/js/models) - Explore pre-trained TensorFlow.js models that can be used in any project out of the box.
@@ -48,13 +56,43 @@ This list is a collection of the best [TensorFlow.js](https://www.tensorflow.org
 - [Official tfjs demo website](https://www.tensorflow.org/js/demos) - See examples and live demos built with TensorFlow.js!
 
 
-## Powered by TensorFlow.js
+### Papers
+
+- [TensorFlow.js: Machine Learning for the Web and Beyond](https://arxiv.org/abs/1901.05350) - This paper describes the design, API, and implementation of TensorFlow.js, and highlights some of the impactful use cases.
+- [JSDoop and TensorFlow.js: Volunteer Distributed Web Browser-Based Neural Network Training](https://arxiv.org/abs/1910.07402) - The experimental results show that training a neural network in distributed web browsers is feasible and accurate, has a high scalability, and it is an interesting area for research.
+
+
+### Videos
+
+- [Official TensorFlow.js video series](https://www.youtube.com/playlist?reload=9&list=PLs6AluHXaQnjeI6jzDkpKXvbPj31i4GgF) - The YouTube content focuses on TensorFlow ecosystem updates.
+- [TensorFlow.js: ML for the web and beyond](https://youtu.be/iH9CS-QYmZs) - TensorFlow Dev Summit 2020.
+- [Rock Paper Scissors!](https://www.youtube.com/watch?v=y4pfTQJaUJU) - Train Rock Paper Scissors on your machine and watch the results with your webcam!
+- [Color Blind Tensors](https://www.youtube.com/watch?v=X55m9eS5UFU) - Manipulate image tensors to percieve color blindness, live coding.
+
+
+### Books
+
+- [Deep Learning with JavaScript](https://www.manning.com/books/deep-learning-with-javascript) - Learn to use TensorFlow.js to build deep learning models that run directly in the browser, master all the basics of deep learning and explore advanced concepts, like retraining existing models for transfer learning and image generation by Shanqing Cai, Stanley Bileschi, Eric D. Nielsen and Francois Chollet.
+
+- [Hands-On Machine Learning with TensorFlow.js](https://www.amazon.com/Hands-Machine-Learning-TensorFlow-js-applications/dp/1838821732) - A guide to building ML applications integrated with web technology using the TensorFlow.js library by Kai Sasaki.
+
+
+### Blog & Posts
+
+- [Official TensorFlow.js blog](https://blog.tensorflow.org/search?label=TensorFlow.js&max-results=20) - Covers building models in JavaScript and using them in the browser or in Node.js.
+- [Towards Data Science](https://towardsdatascience.com/search?q=tensorflow.js)
+
+
+
+### Powered by TensorFlow.js
 
 - [Handwritten Digit Classification](https://github.com/aaronhma/ngconf-2020) - A showcase project for [NgConf 2020](https://www.ng-conf.org/) talk on **A Journey into the World of Machine Learning with TensorFlow.js**.
 - [NSFWJS - Indecent Content Checker](https://github.com/infinitered/nsfwjs) - A friendly library to check images to see if they are indecent content on either the client or the server!
 
 
-## Libraries
+## Tools
+
+### Libraries
 
 - [TensorFlow.js](https://github.com/tensorflow/tfjs) - A WebGL accelerated JavaScript library for training and deploying ML models.
 - [ml5.js](https://ml5js.org/) - Friendly machine learning for the web.
@@ -63,7 +101,7 @@ This list is a collection of the best [TensorFlow.js](https://www.tensorflow.org
 - [magenta.js](https://magenta.tensorflow.org/get-started/#magenta-js) - Music and Art Generation with Machine Intelligence in the Browser.
 
 
-## Tools/Utilities
+### Tools/Utilities
 
 - [Glitch](https://glitch.com/@TensorFlowJS) - Build fast, full-stack web apps in browser for free (Tensorflow.js templates).
 - [CodePen](https://codepen.io) - *bit.ly/codepen-tfjs* Best place to build, test and discover front-end code (Tensorflow.js templates).
@@ -73,41 +111,16 @@ This list is a collection of the best [TensorFlow.js](https://www.tensorflow.org
 - [TensorPlayground.com](https://www.tensorplayground.com/1.0.0/) - Write, modify, and view tensors directly in the browser. Then share the code with others.
 
 
-## Videos
-
-- [Official TensorFlow.js video series](https://www.youtube.com/playlist?reload=9&list=PLs6AluHXaQnjeI6jzDkpKXvbPj31i4GgF) - The YouTube content focuses on TensorFlow ecosystem updates.
-- [TensorFlow.js: ML for the web and beyond](https://youtu.be/iH9CS-QYmZs) - TensorFlow Dev Summit 2020.
-- [Rock Paper Scissors!](https://www.youtube.com/watch?v=y4pfTQJaUJU) - Train Rock Paper Scissors on your machine and watch the results with your webcam!
-- [Color Blind Tensors](https://www.youtube.com/watch?v=X55m9eS5UFU) - Manipulate image tensors to percieve color blindness, live coding.
-
-
-## Papers
-
-- [TensorFlow.js: Machine Learning for the Web and Beyond](https://arxiv.org/abs/1901.05350) - This paper describes the design, API, and implementation of TensorFlow.js, and highlights some of the impactful use cases.
-- [JSDoop and TensorFlow.js: Volunteer Distributed Web Browser-Based Neural Network Training](https://arxiv.org/abs/1910.07402) - The experimental results show that training a neural network in distributed web browsers is feasible and accurate, has a high scalability, and it is an interesting area for research.
-
-
-## Blog & Posts
-
-- [Official TensorFlow.js blog](https://blog.tensorflow.org/search?label=TensorFlow.js&max-results=20) - Covers building models in JavaScript and using them in the browser or in Node.js.
-- [Towards Data Science](https://towardsdatascience.com/search?q=tensorflow.js)
-
-
 ## Community
+
+### Online Community
 
 - [Twitter](https://twitter.com/tensorflow)
 - [Stack Overflow](https://stackoverflow.com/questions/tagged/tensorflow.js)
 - [Reddit](https://www.reddit.com/r/TensorFlowJS)
 
 
-## Books
-
-- [Deep Learning with JavaScript](https://www.manning.com/books/deep-learning-with-javascript) - Learn to use TensorFlow.js to build deep learning models that run directly in the browser, master all the basics of deep learning and explore advanced concepts, like retraining existing models for transfer learning and image generation by Shanqing Cai, Stanley Bileschi, Eric D. Nielsen and Francois Chollet.
-
-- [Hands-On Machine Learning with TensorFlow.js](https://www.amazon.com/Hands-Machine-Learning-TensorFlow-js-applications/dp/1838821732) - A guide to building ML applications integrated with web technology using the TensorFlow.js library by Kai Sasaki.
-
-
-## Social Media
+### Social Media
 
 - [#MadeWithTFJS](https://twitter.com/hashtag/MadeWithTFJS) - See what the community has made and share your work!
 - [Laurence Moroney](https://twitter.com/lmoroney) - Lead of AI Developer Relations at Google.
@@ -131,9 +144,3 @@ Also, if you notice that any of the above listed repositories should be deprecat
 - Not committed for long time (2~3 years).
 
 More info on the [guidelines](CONTRIBUTING.md)
-
-
-## Acknowledgements
-
-- This Awesome TensorFlow.js list is highly inspired by [Awesome TensorFlow](https://github.com/jtoy/awesome-tensorflow) and the [Awesome](https://github.com/sindresorhus/awesome) project.
-- Thanks to [@GantMan](https://github.com/GantMan/) for contributing!
