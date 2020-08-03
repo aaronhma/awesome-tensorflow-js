@@ -1,4 +1,4 @@
-# Awesome TensorFlowJS [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Awesome TensorFlowJS [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)]
 
 TensorFlow.js is an open source software library to develop machine learning models in JavaScript, and use machine learning
 (training and inference) directly in the browser or Node.js.
