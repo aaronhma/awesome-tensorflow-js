@@ -1,4 +1,4 @@
-# Awesome TensorFlowJS [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)]
+# Awesome TensorFlowJS [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 TensorFlow.js is an open source software library to develop machine learning models in JavaScript, and use machine learning
 (training and inference) directly in the browser or Node.js.
@@ -143,4 +143,6 @@ Also, if you notice that any of the above listed repositories should be deprecat
 - The repository's owner explicitly says that "this library is not maintained".
 - Not committed for long time (2~3 years).
 
-More info on the [guidelines](CONTRIBUTING.md)
+More info on the [guidelines](CONTRIBUTING.md).
+
+**NOTE: In order to create an community that is welcome for all, ALL contributors MUST agree to the [Code of Conduct](https://github.com/aaronhma/awesome-tensorflow-js/blob/master/CODE_OF_CONDUCT.md).**
