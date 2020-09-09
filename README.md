@@ -88,6 +88,9 @@ This list is a collection of the best [TensorFlow.js](https://www.tensorflow.org
 
 - [Handwritten Digit Classification](https://github.com/aaronhma/ngconf-2020) - A showcase project for [NgConf 2020](https://www.ng-conf.org/) talk on **A Journey into the World of Machine Learning with TensorFlow.js**.
 - [NSFWJS - Indecent Content Checker](https://github.com/infinitered/nsfwjs) - A friendly library to check images to see if they are indecent content on either the client or the server!
+- [Pose Animator](https://pose-animator-demo.firebaseapp.com/camera.html) - A tool to bring SVG characters to life in the browser via motion capture.
+- [LipSync](https://lipsync.withyoutube.com/) - A web-based, playful, interactive experiences to lip sync to your favorite songs.
+- [BodyPix](https://storage.googleapis.com/tfjs-models/demos/body-pix/index.html) - A real-time person and body-part segmentation in the browser.
 
 
 ## Tools
@@ -99,6 +102,7 @@ This list is a collection of the best [TensorFlow.js](https://www.tensorflow.org
 - [face-api.js](https://github.com/justadudewhohacks/face-api.js) - JavaScript API for face detection and face recognition in the browser and Node.js with tensorflow.js.
 - [handtrack.js](https://github.com/victordibia/handtrack.js/) - A library for prototyping realtime hand detection (bounding box), directly in the browser.
 - [magenta.js](https://magenta.tensorflow.org/get-started/#magenta-js) - Music and Art Generation with Machine Intelligence in the Browser.
+- [Danfo.js](https://danfo.jsdata.org/) - High-performance, intuitive, and easy-to-use data structures for manipulating and processing structured data. (Inspired by Pandas)
 
 
 ### Tools/Utilities
