@@ -67,7 +67,7 @@ This list is a collection of the best [TensorFlow.js](https://www.tensorflow.org
 - [Official TensorFlow.js video series](https://www.youtube.com/playlist?reload=9&list=PLs6AluHXaQnjeI6jzDkpKXvbPj31i4GgF) - The YouTube content focuses on TensorFlow ecosystem updates.
 - [TensorFlow.js: ML for the web and beyond](https://youtu.be/iH9CS-QYmZs) - TensorFlow Dev Summit 2020.
 - [Rock Paper Scissors!](https://www.youtube.com/watch?v=y4pfTQJaUJU) - Train Rock Paper Scissors on your machine and watch the results with your webcam!
-- [Color Blind Tensors](https://www.youtube.com/watch?v=X55m9eS5UFU) - Manipulate image tensors to percieve color blindness, live coding.
+- [Color Blind Tensors](https://www.youtube.com/watch?v=X55m9eS5UFU) - Manipulate image tensors to perceive color blindness, live coding.
 
 
 ### Books
