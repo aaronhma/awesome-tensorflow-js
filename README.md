@@ -45,6 +45,7 @@ This list is a collection of the best [TensorFlow.js](https://www.tensorflow.org
 - [Machine Learning Crash Course](https://developers.google.com/machine-learning/crash-course/) - Google's fast-paced, practical introduction to machine learning.
 - [Google Codelabs](https://codelabs.developers.google.com/) - Google Developers Codelabs provide a guided, tutorial, hands-on coding experience.
 - [Beginning ML with TensorFlow.js](https://academy.infinite.red/p/beginning-machine-learning-with-tensorflow-js) - Full online course for web devs to get into TF.js.
+- [Effective TensorFlow.js](https://effectivemachinelearning.com/TensorFlow.js) - TensorFlow.js tutorials and best practices.
 
 
 ### Models/Projects
