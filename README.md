@@ -33,7 +33,7 @@ This list is a collection of the best [TensorFlow.js](https://www.tensorflow.org
 
 ## 📖 Learn
 
-### Documentation
+### 📃 Documentation
 
 - [Official Documentation](https://www.tensorflow.org/js/guide)
 - [API Reference](https://js.tensorflow.org/api/latest/)
