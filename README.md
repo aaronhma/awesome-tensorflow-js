@@ -1,6 +1,6 @@
 # Awesome TensorFlowJS [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-TensorFlow.js is [an open source software library](https://github.com/tensorflow/tfjs) to develop machine learning models in JavaScript, and use machine learning
+TensorFlow.js is an open source software library to develop machine learning models in JavaScript, and use machine learning
 (training and inference) directly in the browser or Node.js.
 
 This list is a collection of the best [TensorFlow.js](https://www.tensorflow.org/js) tools, resources, videos and shiny things.
@@ -9,25 +9,26 @@ This list is a collection of the best [TensorFlow.js](https://www.tensorflow.org
 
 ## Contents
 
-- [Learn](#learn)
-  - [Documentation](#documentation)
-  - [Tutorials](#tutorials)
-  - [Models/Projects](#modelsprojects)
-  - [Papers](#papers)
-  - [Videos](#videos)
-  - [Books](#books)
-  - [Blog & Posts](#blog--posts)
-  - [Powered by TensorFlow.js](#powered-by-tensorflowjs)
+- [📖 Learn](#-learn)
+  - [📃 Documentation](#-documentation)
+  - [📝 Tutorials](#-tutorials)
+  - [🤖 Models/Projects](#-modelsprojects)
+  - [📎 Papers](#-papers)
+  - [🎥 Videos](#-videos)
+  - [📚 Books](#-books)
+  - [📰 Blog & Posts](#-blog--posts)
+  - [🤩 Powered by TensorFlow.js](#-powered-by-tensorflowjs)
 
-- [Tools](#tools)
+- [🔨 Tools](#-tools)
   - [Libraries](#libraries)
   - [Tools/Utilities](#toolsutilities)
 
-- [Community](#community)
+- [🎉 Community](#-community)
   - [Online Community](#online-community)
   - [Social Media](#social-media)
 
-- [Contributions](#contributions)
+- [💡 Contributions](#-contributions)
+- [⭐ Star History](#-star-history)
 
 ---
 
@@ -139,7 +140,7 @@ This list is a collection of the best [TensorFlow.js](https://www.tensorflow.org
 - [Daniel Smilkov](https://twitter.com/dsmilkov) - Co-creator of TensorFlow.js.
 - [Paige Bailey](https://twitter.com/DynamicWebPaige) - Building
 Google AI for everyone, and for every platform.
-- [Aaron Ma](https://twitter.com/aaronhma) - World's youngest TensorFlow contributor!
+- [Aaron Ma](https://x.com/aaronhma) - World's youngest TensorFlow contributor!
 - [Sandeep Gupta](https://twitter.com/TheSandeepGupta) - Product Manager for TensorFlow.
 - [Jason Mayes](https://twitter.com/jason_mayes) - Developer advocate for TensorFlow.js.
 - [Gant Laborde](https://twitter.com/GantLaborde) - Web & Machine Learning GDE.
